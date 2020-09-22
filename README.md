@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋
 ### 😄 Pronouns   
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧷 [Blog](https://velog.io/@ju_h2)<br>
