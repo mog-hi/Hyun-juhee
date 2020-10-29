@@ -2,7 +2,6 @@
 ### 😄 Pronouns   
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧷 [Blog](https://velog.io/@ju_h2)<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏠 [about me](https://www.notion.so/Hyun-Juhui-8fb92993624e4907932501df82ae900c)
    
 ### 📫 How to reach me<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juhd1998@gmail.com)](mailto:juhd1998@gmail.com)
