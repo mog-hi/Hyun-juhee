@@ -5,10 +5,10 @@
    
 ### 📫 How to reach me<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juhd1998@gmail.com)](mailto:juhd1998@gmail.com)
-  
-### 🌱 I’m currently learning <br>
+  <!--### 🌱 I’m currently learning <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React and Express with javascript<br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spring boot Framework
+-->
 
 <!--
 **Hyun-juhee/Hyun-juhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
