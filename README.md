@@ -1,12 +1,4 @@
 
-### Hi there 👋
-### 😄 Pronouns   
-
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧷 [Blog](https://velog.io/@ju_h2)<br>
-   
-### 📫 How to reach me<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juhd1998@gmail.com)](mailto:juhd1998@gmail.com)
-  
  ### 🌱 I’m currently learning <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React and Express with javascript<br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spring boot Framework
