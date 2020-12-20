@@ -5,6 +5,7 @@
 
 #### [👩🏻‍💻 About Me](https://www.notion.so/Hyun-Juhui-8fb92993624e4907932501df82ae900c)
 #### [📝 Blog](https://velog.io/@ju_h2) 
+#### [📧 Email](ju_h2@naver.com) 
 <!--
 **Hyun-juhee/Hyun-juhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
