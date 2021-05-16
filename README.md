@@ -3,7 +3,7 @@
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React and Express with javascript<br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spring boot Framework
 
-#### [📝 Blog](https://velog.io/@ju_h2) 
+#### [📝 Blog](https://juhi.tistory.com/) 
 #### 📧 Email : ju_h2@naver.com
 <!--
 **Hyun-juhee/Hyun-juhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
